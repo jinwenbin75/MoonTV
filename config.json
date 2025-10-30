@@ -3,8 +3,8 @@
     "api_site": {
         "api_1": {
 
-            "name": "TV-电影天堂资源",
-            "api": "https://py.doube.eu.org/spider?site=DianYingTanTang",
+            "name": "电影天堂",
+            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
             "detail": "http://caiji.dyttzyapi.com"
         },
            "api_29": {
