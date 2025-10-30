@@ -2,7 +2,12 @@
     "cache_time": 9200,
     "api_site": {
         "api_1": {
-            "name": "TV-1080资源",
+                "dyttzy": {
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "name": "电影天堂",
+      "detail": "http://caiji.dyttzyapi.com"
+    },
+           ./ "name": "TV-1080资源",
             "api": "https://api.1080zyku.com/inc/api_mac10.php",
             "detail": "https://api.1080zyku.com"
         },
@@ -477,7 +482,7 @@
         },
         "fantuanyingshi": {
             "api": "https://www.fantuan.tv/api.php/provide/vod/",
-            "name": "饭团影视"
+            "name": "饭团影视"/.
         }
     }
 }
