@@ -4,7 +4,7 @@
         "api_1": {
 
             "name": "TV-电影天堂资源",
-            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+            "api": "https://py.doube.eu.org/spider?site=DianYingTanTang",
             "detail": "http://caiji.dyttzyapi.com"
         },
            "api_29": {
